@@ -1,6 +1,6 @@
 {
   "name": "vector-similarity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lightweight Cosine Similarity Function.",
   "main": "lib/cosineSimilarity.js",
   "types": "lib/cosineSimilarity.d.ts",
