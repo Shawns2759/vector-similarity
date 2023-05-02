@@ -20,4 +20,5 @@ const similarity = cosineSimilarity(vector1, vector2);
 ```js
 const { cosineSimilarity } = require('vector-similarity');
 
-const matrix = Matrix.ones(5, 5);
+const similarity = cosineSimilarity(vector1, vector2);
+```
