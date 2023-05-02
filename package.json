@@ -1,6 +1,6 @@
 {
   "name": "vector-cosine-similarity",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "description": "Lightweight Cosine Similarity Function. Built as an alternative to the compute-cosine-similarity package. Works with high dimension vectors like openAI embeddings",
   "main": "lib/cosineSimilarity.js",
   "types": "lib/cosineSimilarity.d.ts",

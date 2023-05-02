@@ -1,5 +1,5 @@
 # vector-cosine-similarity
-Lightweight Cosine Similarity Function. Built as an alternative to the `compute-cosine-similarity` package. Works with high dimension vectors like openAI embeddings.
+A lightweight Cosine Similarity Function. Built as an alternative to the `compute-cosine-similarity` package. Works with high dimension vectors like openAI embeddings.
 
 ## Installation
 
