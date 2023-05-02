@@ -13,4 +13,6 @@ Lightweight Cosine Similarity Function. Built as an alternative to the `compute-
 import { cosineSimilarity } from 'vector-cosine-similarity';
 
 const similarity = cosineSimilarity(vector1, vector2);
+
+console.log(similarity) // => .78456378
 ```
