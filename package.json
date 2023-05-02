@@ -1,0 +1,25 @@
+{
+  "name": "vector-similarity",
+  "version": "1.0.0",
+  "description": "Lightweight Cosine Similarity Function.",
+  "main": "lib/cosineSimilarity.js",
+  "types": "lib/cosineSimilarity.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawns2759/vector-similarity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawns2759/vector-similarity/issues"
+  },
+  "homepage": "https://github.com/Shawns2759/vector-similarity#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
