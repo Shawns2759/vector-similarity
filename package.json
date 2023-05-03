@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Shawns2759/vector-similarity.git"
   },
   "keywords": [
-    "vector", "cosine", "similarity", "distance","openai", "embeddings", "nlp", "machine learning","node", "typescript", "compute-cosine-similarity", "high-dimension", "word embeddings"
+    "vector", "cosine", "similarity", "distance","openai", "embeddings", "nlp", "machine learning","node", "typescript", "compute-cosine-similarity", "high-dimension", "word embeddings", "ml-matrix"
   ],
   "author": "",
   "license": "ISC",
